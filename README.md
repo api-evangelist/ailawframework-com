@@ -66,7 +66,7 @@
 
 AI Law Framework provides a comprehensive platform integrating artificial intelligence with legal practice. It offers tools for AI-driven legal research, jurisdiction-specific guidance, software catalogues, and policy building to help law firms and in‑house counsel navigate AI regulations, assess compliance, and automate routine tasks across multiple regions. The service includes practice area resources, quick‑check assessments, and a knowledge‑management hub to streamline AI policy implementation and risk management for legal professionals.
 
-**Areas:** AI policy · Law firm tools · Knowledge management
+**Areas:** AI Policy · Law Firm Tools · Knowledge Management
 
 ## ailawframework-com on APIs.io
 
@@ -80,11 +80,17 @@ Everything profiled for ailawframework-com is published on APIs.io rather than i
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [ailawframework-com-mcp.yml](https://apis.io/servers/ailawframework-com/ailawframework-com-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Ailawframework Com Domain Security](https://apis.io/security/ailawframework-com/ailawframework-com-domain-security/)
+- [ailawframework-com Domain Security](https://apis.io/security/ailawframework-com/ailawframework-com-domain-security/)
 
 ## Where to find this API
 
@@ -101,18 +107,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 23.8** — emerging · rubric 0.25.0 · scored 2026-10-30
+**Kin Score 23.1** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 58.3 |
+| Discoverability | 78.3 |
 | Contract quality | 0.0 |
-| Contract governance | 30.0 |
+| Contract governance | 8.3 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 33.3 |
-| Access clarity | 34.2 |
+| Access clarity | 38.3 |
 
-**Agent readiness 21.1** — agent-aware
+**Agent readiness 22.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -128,7 +134,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | — |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | served (partial credit) |
@@ -137,8 +143,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 20.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 14.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ailawframework-com/](https://apis.io/providers/ailawframework-com/).
 
